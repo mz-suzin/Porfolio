@@ -9,3 +9,8 @@
   #menu {
     transition: .2s;
   }
+
+  .container {
+    /* background-color: #37a9e8; */
+    background-color: white;
+  }
